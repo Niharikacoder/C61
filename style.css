@@ -1,0 +1,13 @@
+hr{
+    width: 200px;
+    height: 4px;
+    background-color: black;
+}
+img{
+    width: 250px;
+    height: 250px;
+    border: 10px groove rgb(181, 181, 230);
+}
+body{
+    background: linear-gradient(rgb(132, 230, 230), pink);
+}
